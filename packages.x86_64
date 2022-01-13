@@ -9,6 +9,9 @@ qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
 
+# Networking
+networkmanager
+
 # Graphical environment
 xorg-server
 xorg-xinit
