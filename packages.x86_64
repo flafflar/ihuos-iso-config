@@ -16,3 +16,7 @@ networkmanager
 # Graphical environment
 xorg-server
 xorg-xinit
+
+# Installer
+arch-install-scripts
+ihuos-calamares
