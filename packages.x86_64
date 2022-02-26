@@ -2,6 +2,7 @@ base
 ihuos-keyring
 cloud-init
 linux
+linux-firmware
 mkinitcpio
 mkinitcpio-archiso
 openssh
