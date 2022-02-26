@@ -1,4 +1,5 @@
 base
+ihuos-keyring
 cloud-init
 linux
 mkinitcpio
