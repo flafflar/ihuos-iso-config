@@ -22,6 +22,7 @@ networkmanager
 xorg-server
 xorg-xinit
 plasma-desktop
+sddm
 
 # Installer
 arch-install-scripts
